@@ -10,9 +10,9 @@ Suiiipers is a strategy and FPS game built using JavaScript and Unity. This guid
 
 ## Prerequisites
 Make sure you have the following installed on your machine:
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (which includes npm)
 - [Yarn](https://yarnpkg.com/)
+- Suilet (Sui wallet)
+- Devnet tokens
 
 ## Installation
 
