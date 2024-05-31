@@ -1,5 +1,5 @@
 # Suiipers
-Suiiipers is a strategy and FPS game built using JavaScript and Unity. This guide will help you clone the repository, install the necessary dependencies, and run the project.
+Suiiipers is a strategy and FPS game built using React3 Fiber and Unity. This guide will help you clone the repository, install the necessary dependencies, and run the project.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
