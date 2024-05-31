@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lobby | Island
+* source:	https://sketchfab.com/3d-models/lobby-island-ecac2040ddb04047862d96d97e67ae07
+* author:	LukyTechnology (https://sketchfab.com/LukyTechnology)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lobby | Island" (https://sketchfab.com/3d-models/lobby-island-ecac2040ddb04047862d96d97e67ae07) by LukyTechnology (https://sketchfab.com/LukyTechnology) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
